@@ -47,3 +47,17 @@
     a coin is because currently in the blindfold state prevent you from seeing it and gloves
     on the hand to feel it.How do you partition the coins so that you can win all of them ??
     
+### 6.    
+   #### Celebrity Problem
+   
+       There is a party in a hall.N people are attending this a party .An extra person who is
+       stranger is attending the party and another extra person who is a celebrity is attending 
+       this party.So in all you have N+1+1 people.
+            Rules:-
+                    - Celebrity knows none
+                    - All people knows celebrity except stranger
+      Stranger can ask a question to any person X  in hall about person Y.Each such question has 
+      unit cost and if stranger ask the other person the same question then it cost will be two.
+      
+      So come up with a strategy and minimum no of question to be asked ? 
+                    
