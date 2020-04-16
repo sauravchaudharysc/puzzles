@@ -38,4 +38,12 @@
     take 7 minutes for the sand to completely fall and for the second hour glasses it 
     takes 11 minutes.
     
+### 5.
+    You are wearing a blindfold and thick gloves.An infinite number of coins are laid
+    out before you on a table of inifinite area.Someone tells you that 20 of these coins
+    are tails and the rest are heads.He says that if you can split the coins into two piles
+    where the number of tails quarter is the same in both piles,then you win all the quarters.
+    You are allowed to move the coin and flip them over,but you can never tell what state 
+    a coin is because currently in the blindfold state prevent you from seeing it and gloves
+    on the hand to feel it.How do you partition the coins so that you can win all of them ??
     
